@@ -283,7 +283,7 @@ VITE_APP_BASE_API = 'https://your-api-domain.com'
 ## 🤝 友情链接
 
 - [HotPulse](https://hotpulse.pages.dev/) - 全网热点聚合平台
-
+- [番剧](https://tv.yxcr.top/) - 番剧
 ## 📈 Star 趋势
 
 [![Stargazers over time](https://starchart.cc/XiangZi7/KM-Music-Player.svg?variant=adaptive)](https://starchart.cc/XiangZi7/KM-Music-Player)
